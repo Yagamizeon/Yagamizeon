@@ -2,8 +2,7 @@ Yagamizeon
 
 **`Desenvolvedor FullStack`**
 
-20y | Ciência da Computação 🎓 | Focado em Backend, SQL e Estruturas de Dados. Código limpo, arquitetura sólida e aprendizado contínuo.
-
+20y | Ciência da Computação 🎓 | Focado em Backend, SQL e Estruturas de Dados. Código limpo, arquitetura sólida e aprendizado contínuo.  
 20y | Computer Science undergrad 🎓 | Building with Relational Databases & Data Structures. Code, debug, optimize, repeat.
 
 <p align="left">
